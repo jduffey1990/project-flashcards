@@ -1,6 +1,7 @@
 # Flashcard App
 
-This is a React-based web application for creating and studying flashcards. The current version of the app uses a mock database for demonstration purposes. Enhancements to include a fully functional backend are planned for the future.
+This is a React-based web application for creating and studying flashcards. ***The deployed version of the app does not have a backend, so please look at the code to see the React implementation and logic.***
+ Enhancements to include a fully functional backend are planned for the future.
 
 You can view the deployed app [here](https://project-flashcards-sigma.vercel.app/).
 
